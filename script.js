@@ -61,7 +61,7 @@ function readProducts(products) {
       <option value="dresses">dresses</option>
       <option value="tops">tops</option>
       <option value="bottoms">bottoms</option>
-      <option value="jackets">jackets</option>
+      <option value="jackets">jacket</option>
     </select><br>
     PRICE<input type="text" id="update-price${i}" value=""/><br>
     IMG LINK<input type="text" id="update-img${i}" value=""/><br>
